@@ -5,7 +5,7 @@ This repository contains Playwright learning examples for rapid automation pract
 ## Structure
 
 - `chapter_01_basics/` - Basic Playwright scripts and setup verification.
-- `chapter_02_javascript/` - JavaScript-focused Playwright examples.
+- `chapter_02_Javascript_Concepts/` - JavaScript-focused Playwright examples.
 
 ## Getting Started
 
@@ -17,6 +17,11 @@ This repository contains Playwright learning examples for rapid automation pract
 2. Run a script manually with Node.js:
    ```bash
    node chapter_01_basics/04_HotCode.js
+   ```
+
+3. Run the new JavaScript concept example:
+   ```bash
+   node chapter_02_Javascript_Concepts/05_JS.js
    ```
 
 ## Notes
