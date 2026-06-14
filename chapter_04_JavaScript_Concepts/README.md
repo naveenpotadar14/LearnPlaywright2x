@@ -6,8 +6,10 @@ This chapter covers core JavaScript concepts used throughout the course.
 Lessons in this chapter explain modern JavaScript features, scoping rules, and common patterns with small runnable examples.
 
 ## Files in this Chapter
+- `09_var_let_const.js` - Introduction to `var`, `let`, and `const`
+- `10_functions.js` - Basic functions, parameters, and return values
+- `11_var_explained.js` - Deeper look at `var` and JavaScript variable behavior
 - `12_let_explained.js` - Examples and notes about `let` and block scope
-- (Add additional lesson files here)
 
 ## Key Topics
 - Variable declarations: `var`, `let`, `const`
