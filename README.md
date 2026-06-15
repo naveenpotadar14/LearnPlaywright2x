@@ -8,7 +8,7 @@ This repository contains Playwright learning examples for rapid automation pract
 - `chapter_02_Javascript_Concepts/` - JavaScript-focused Playwright examples.
 - `chapter_03_Identifier_Literals/` - JavaScript identifier rules, naming conventions, and literals.
 - `chapter_04_JavaScript_Concepts/` - Advanced JavaScript concepts including var/let/const scope, hoisting, and functional scope.
-- `chapter_05_Literals/` - Deep dive into JavaScript literals (null, undefined, and more).
+- `chapter_05_Literals/` - Deep dive into JavaScript literals including null, string literals, template literals, and number literals.
 
 ## Getting Started
 
@@ -28,6 +28,9 @@ This repository contains Playwright learning examples for rapid automation pract
    node chapter_03_Identifier_Literals/06_Identifier_Rules.js
    node chapter_04_JavaScript_Concepts/09_var_let_const.js
    node chapter_04_JavaScript_Concepts/21_jr_qa_example.js
+   node chapter_05_Literals/22_literal.js
+   node chapter_05_Literals/27_string.js
+   node chapter_05_Literals/28_Template_Literal.js
    ```
 
 ## Notes
