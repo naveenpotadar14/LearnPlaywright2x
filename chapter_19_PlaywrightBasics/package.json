@@ -1,0 +1,23 @@
+{
+  "name": "playwright-2x",
+  "version": "1.0.0",
+  "description": "This repository contains Playwright learning examples for rapid automation practice.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenpotadar14/LearnPlaywright2x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/naveenpotadar14/LearnPlaywright2x/issues"
+  },
+  "homepage": "https://github.com/naveenpotadar14/LearnPlaywright2x#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.61.0",
+    "@types/node": "^25.9.3"
+  }
+}
