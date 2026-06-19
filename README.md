@@ -10,6 +10,7 @@ This repository contains Playwright learning examples for rapid automation pract
 - `chapter_04_JavaScript_Concepts/` - Advanced JavaScript concepts including var/let/const scope, hoisting, and functional scope.
 - `chapter_05_Literals/` - Deep dive into JavaScript literals including null, string literals, template literals, and number literals.
 - `chapter_06_Operator/` - JavaScript operators including arithmetic, comparison, logical, ternary, typeof, and increment/decrement operators.
+- `chapter_19_PlaywrightBasics/` - Playwright end-to-end testing with TypeScript configuration and test examples.
 
 ## Getting Started
 
@@ -36,6 +37,13 @@ This repository contains Playwright learning examples for rapid automation pract
    node chapter_06_Operator/35_comparison.js
    node chapter_06_Operator/39_logical_op.js
    node chapter_06_Operator/41_ternary_op.js
+   ```
+
+4. Run Playwright tests from the chapter 19 folder:
+   ```bash
+   cd chapter_19_PlaywrightBasics
+   npx playwright test
+   npx playwright show-report
    ```
 
 ## Notes
