@@ -15,6 +15,7 @@ This repository contains Playwright learning examples for rapid automation pract
 - `chapter_09-UserInput/` - User input handling using readline, prompt-sync, and Node.js input methods.
 - `chapter_10_Loops/` - Loop constructs including for, for-in, for-of, forEach, while, do-while loops and common interview questions.
 - `chapter_11_Arrays/` - Array operations including creation, access, adding/removing elements, searching, iteration, transformation, sorting, slicing, concatenation, and type checking.
+- `chapter_12_Functions/` - Functions in depth including function types, expressions, arrow functions, IIFE, default/rest parameters, scope, closure, higher-order functions, and pure functions.
 - `chapter_19_PlaywrightBasics/` - Playwright end-to-end testing with TypeScript configuration and test examples.
 
 ## Getting Started
@@ -45,7 +46,7 @@ This repository contains Playwright learning examples for rapid automation pract
    node chapter_07_if_else/48_If_Else.js
    node chapter_07_if_else/57_grade_cal.js
    node chapter_07_if_else/58_leap_year.js
-   node chapter_08_switch/59_switch.js
+    node chapter_08_switch/59_switch.js
     node chapter_08_switch/62_real_example.js
     node chapter_09-UserInput/68_user_input.js
     node chapter_09-UserInput/70_prompt_sync.js
@@ -53,6 +54,10 @@ This repository contains Playwright learning examples for rapid automation pract
     node chapter_10_Loops/82_IQ.js
     node chapter_11_Arrays/83_Arrays.js
     node chapter_11_Arrays/93_Array_Slicing.js
+    node chapter_12_Functions/97_Functions.js
+    node chapter_12_Functions/103_Arrow_Fn.js
+    node chapter_12_Functions/105_IIFE.js
+    node chapter_12_Functions/113_Closure.js
     ```
 
 4. Run Playwright tests from the chapter 19 folder:
