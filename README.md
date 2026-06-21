@@ -11,6 +11,7 @@ This repository contains Playwright learning examples for rapid automation pract
 - `chapter_05_Literals/` - Deep dive into JavaScript literals including null, string literals, template literals, and number literals.
 - `chapter_06_Operator/` - JavaScript operators including arithmetic, comparison, logical, ternary, typeof, and increment/decrement operators.
 - `chapter_07_if_else/` - Conditional logic with if-else statements, nested conditions, and practical examples like grade calculation and leap year detection.
+- `chapter_08_switch/` - Switch statements for multi-way conditional branching with case matching and fall-through behavior.
 - `chapter_19_PlaywrightBasics/` - Playwright end-to-end testing with TypeScript configuration and test examples.
 
 ## Getting Started
@@ -41,6 +42,8 @@ This repository contains Playwright learning examples for rapid automation pract
    node chapter_07_if_else/48_If_Else.js
    node chapter_07_if_else/57_grade_cal.js
    node chapter_07_if_else/58_leap_year.js
+   node chapter_08_switch/59_switch.js
+   node chapter_08_switch/62_real_example.js
    ```
 
 4. Run Playwright tests from the chapter 19 folder:
