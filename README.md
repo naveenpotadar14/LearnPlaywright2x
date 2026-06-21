@@ -12,6 +12,9 @@ This repository contains Playwright learning examples for rapid automation pract
 - `chapter_06_Operator/` - JavaScript operators including arithmetic, comparison, logical, ternary, typeof, and increment/decrement operators.
 - `chapter_07_if_else/` - Conditional logic with if-else statements, nested conditions, and practical examples like grade calculation and leap year detection.
 - `chapter_08_switch/` - Switch statements for multi-way conditional branching with case matching and fall-through behavior.
+- `chapter_09-UserInput/` - User input handling using readline, prompt-sync, and Node.js input methods.
+- `chapter_10_Loops/` - Loop constructs including for, for-in, for-of, forEach, while, do-while loops and common interview questions.
+- `chapter_11_Arrays/` - Array operations including creation, access, adding/removing elements, searching, iteration, transformation, sorting, slicing, concatenation, and type checking.
 - `chapter_19_PlaywrightBasics/` - Playwright end-to-end testing with TypeScript configuration and test examples.
 
 ## Getting Started
@@ -43,8 +46,14 @@ This repository contains Playwright learning examples for rapid automation pract
    node chapter_07_if_else/57_grade_cal.js
    node chapter_07_if_else/58_leap_year.js
    node chapter_08_switch/59_switch.js
-   node chapter_08_switch/62_real_example.js
-   ```
+    node chapter_08_switch/62_real_example.js
+    node chapter_09-UserInput/68_user_input.js
+    node chapter_09-UserInput/70_prompt_sync.js
+    node chapter_10_Loops/71_for_loop.js
+    node chapter_10_Loops/82_IQ.js
+    node chapter_11_Arrays/83_Arrays.js
+    node chapter_11_Arrays/93_Array_Slicing.js
+    ```
 
 4. Run Playwright tests from the chapter 19 folder:
    ```bash
